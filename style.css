@@ -2,6 +2,11 @@ body{
     background-color: azure;
 }
 div {
-    min-width:50px;
+    min-width:250px;
+    width: 100%;
     height: auto;
+}
+.banner{
+    min-width:1500px;
+    height:auto;
 }
