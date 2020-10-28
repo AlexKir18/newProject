@@ -1,3 +1,2 @@
-newFuntion{
-    i=23;
-}
+alert("hello")
+document.write("Master")
