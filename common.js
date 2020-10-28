@@ -1,2 +1,3 @@
 newFuntion{
+    i=23;
 }
